@@ -1,0 +1,16 @@
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20\test20\bin\Debug\test20.exe.config
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20\test20\bin\Debug\test20.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20\test20\bin\Debug\test20.pdb
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20\test20\obj\Debug\test20.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20\test20\obj\Debug\test20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20\test20\obj\Debug\test20.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20\test20\obj\Debug\test20.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20\test20\obj\Debug\test20.pdb
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20=cümlede kelime sayısını bulan kod\test20\bin\Debug\test20.exe.config
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20=cümlede kelime sayısını bulan kod\test20\bin\Debug\test20.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20=cümlede kelime sayısını bulan kod\test20\bin\Debug\test20.pdb
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20=cümlede kelime sayısını bulan kod\test20\obj\Debug\test20.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20=cümlede kelime sayısını bulan kod\test20\obj\Debug\test20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20=cümlede kelime sayısını bulan kod\test20\obj\Debug\test20.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20=cümlede kelime sayısını bulan kod\test20\obj\Debug\test20.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\test20=cümlede kelime sayısını bulan kod\test20\obj\Debug\test20.pdb
